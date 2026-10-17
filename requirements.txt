@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+postgrysql
+psycopg2-binary
+sqlalchemy
